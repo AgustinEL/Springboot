@@ -1,0 +1,9 @@
+video tutorial:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjn_7635On2AhWJRLgEHQCZDmoQtwJ6BAgGEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkuFBlxwsDFc&usg=AOvVaw172FuRISezimHH1VJ3jYre
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjn_7635On2AhWJRLgEHQCZDmoQtwJ6BAgCEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoMpbjRBDf8A&usg=AOvVaw09kwtGfnANe2MV1RL249YC
+
+paginas de referencia:
+
+https://appsdeveloperblog.com/many-to-many-relationship-in-spring-boot-rest-jpa/
+https://programmerclick.com/article/8722902208/
